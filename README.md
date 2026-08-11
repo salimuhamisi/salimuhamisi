@@ -9,7 +9,7 @@ I’m a **System Administrator** with hands-on experience in Windows Server, Act
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50" style="margin: 10px 13px;"/>
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50" style="margin: 13px 16px;"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin: 5px 8px;"/>
