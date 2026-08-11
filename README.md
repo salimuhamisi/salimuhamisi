@@ -9,7 +9,7 @@ I’m a **System Administrator** with hands-on experience in Windows Server, Act
 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin: 5px 8px;"/>
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin: 8px 11px;"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" style="margin: 5px 8px;"/>
